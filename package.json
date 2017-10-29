@@ -1,0 +1,14 @@
+{
+  "name": "lilyparser",
+  "version": "1.0.0",
+  "description": "lilyparser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Alan Chen",
+  "license": "ISC",
+  "dependencies": {
+    "lilynode": "^0.4.1"
+  }
+}
