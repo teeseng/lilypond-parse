@@ -9,6 +9,5 @@
   "author": "Alan Chen",
   "license": "ISC",
   "dependencies": {
-    "lilynode": "^0.4.1"
   }
 }
